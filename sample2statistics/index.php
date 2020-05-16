@@ -1,5 +1,5 @@
 <?php
 
-header('Location: /indexstats.html');
+header('Location: /indexcompo.html');
 
 ?>
